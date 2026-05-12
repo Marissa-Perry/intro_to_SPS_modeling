@@ -1,6 +1,6 @@
 # Stellar Population Synthesis Modeling of Galaxy Spectra
 
-A walk-through Jupyter Notebook that provides an introduction to how stellar population synthesis modeling is used to fit galaxy spectra. These concepts are applicable to understanding how modern SED fitting softwares work!
+An interactive walk-through Jupyter Notebook that provides an introduction to how stellar population synthesis modeling is used to fit galaxy spectra. These concepts are applicable to understanding how modern SED fitting softwares work!
 
 ## Structure
 
